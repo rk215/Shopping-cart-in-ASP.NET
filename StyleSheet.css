@@ -1,0 +1,165 @@
+﻿/*--------------------------------------details page tyle------------------------------*/
+
+body {
+    background-color: #eee;
+}
+
+.btaddtocart {
+    width: 80px;
+    border-radius: 4px;
+    height: 34px;
+    border: 1px solid #e4e4e4;
+    color: #e1e1e1;
+    background-color: #3297e0;
+}
+
+    .btaddtocart:hover {
+        cursor: pointer;
+        border: 1px solid #3297e0;
+        background-color: #51aced;
+    }
+
+.btseecart {
+    width: 80px;
+    border-radius: 4px;
+    height: 34px;
+    border: 1px solid #e4e4e4;
+    color: #e1e1e1;
+    background-color: #3297e0;
+}
+
+    .btseecart:hover {
+        cursor: pointer;
+        border: 1px solid #3297e0;
+        background-color: #51aced;
+    }
+
+.detail {
+    font-family: Verdana;
+    font-size: 14px;
+    background-color: #ffffff;
+    border: 1px solid #e0d3d3;
+    padding: 22px;
+    color: #888888;
+}
+
+.img {
+    padding: 0;
+    margin: 0;
+    border-radius: 2px;
+    height: 110px;
+    width: 110px;
+    border: 1px solid #999;
+}
+/*-------------------------------End of details page tyle------------------------------*/
+
+
+/*-----------------------------------------Cart page style------------------------------*/
+.footer {
+    width: 200px;
+    text-align: right;
+}
+
+    .footer td {
+        border: none;
+    }
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.drop {
+    width: 200px;
+    padding: 10px;
+    outline: none;
+    background-color:#f2f2f2;
+}
+
+    .drop:focus {
+        border: 1px solid #999;
+    }
+
+.grid {
+    font-family: Verdana;
+    font-size: 14px;
+    background-color: #ffffff;
+    border: 1px solid #e0d3d3;
+    padding: 22px;
+    color: #888888;
+}
+
+.header {
+    background-color: #e9e9e9;
+}
+
+.cartimg {
+    padding: 0;
+    margin: 0;
+    border-radius: 2px;
+    height: 110px;
+    width: 110px;
+    border: 1px solid #999;
+}
+
+.edit{
+    color: #000000;
+    background-color: #f2f3f3;
+    border: 1px solid #b6acac;
+}
+
+a {
+    font-size: 15px;
+    color: #999;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #777;
+    }
+
+.bt {
+    width: 100px;
+    border-radius: 4px;
+    height: 34px;
+    border: 1px solid #e4e4e4;
+    color: #e1e1e1;
+    background-color: #3297e0;
+}
+
+    .bt:hover {
+        cursor: pointer;
+        border: 1px solid #3297e0;
+        background-color: #51aced;
+    }
+/*--------------------------------End of cart style-------------------------------------*/
+
+
+
+/*--------------------------------Product page style-------------------------------------*/
+ .img{
+            border:1px solid #999999;
+            border-radius:2px;
+            height:110px;
+            width: 110px;
+        }
+        .grid {
+            font-family: Verdana;
+            font-size: 14px;
+            background-color: #ffffff;
+            border: 1px solid #e0d3d3;
+            padding: 22px;
+            color: #888888;
+        }
+       a{
+            font-size:15px;
+            color:#999;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            text-decoration:none;
+        }
+        a:hover{
+            color:#777;
+        }
+
+/*------------------------------End of Product page style------------------------------*/
